@@ -2,6 +2,8 @@
 
 适用于 ASUS TUF GAMING B550M-PLUS WIFI II（华硕 B550-M PLUS 重炮手 II）的 OpenCore EFI.
 
+![screenshot.jpg](https://s2.loli.net/2022/09/25/fW8p3qxkQYnzVhI.jpg)
+
 ## 配置
 
 | 组件 | 型号 |
