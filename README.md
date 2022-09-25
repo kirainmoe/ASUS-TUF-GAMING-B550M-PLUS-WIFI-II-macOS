@@ -13,7 +13,7 @@
 | 显卡 | Vastarmor (瀚铠) RX 6650 XT 8GB |
 | 硬盘 | ZHITAI (致态) TiPlus 5000 |
 | 声卡 | Realtek ALCS1200A |
-| 有线网卡 | Reaktek RTL8215 2.5GbE Controller |
+| 有线网卡 | Realtek RTL8125 2.5GbE Controller |
 | 无线 | Mediatek MT7921 Wi-Fi 6 |
 
 ## 状态
